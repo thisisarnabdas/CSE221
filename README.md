@@ -1,2 +1,2 @@
 # CSE221
-Will be uploading my CSE221 lab assignments here
+All my CSE221 lab assignments are uploaded here.Feel free to explore.
